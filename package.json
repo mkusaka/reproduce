@@ -34,6 +34,14 @@
     "access": "public"
   },
   "author": "mkusaka",
+    "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkusaka/reproduce.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mkusaka/reproduce.git"
+  },
+  "homepage": "https://github.com/mkusaka/reproduce",
   "module": "dist/reproduce.esm.js",
   "devDependencies": {
     "husky": "^4.2.5",
