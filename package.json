@@ -1,5 +1,5 @@
 {
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -34,7 +34,7 @@
     "access": "public"
   },
   "author": "mkusaka",
-    "repository": {
+  "repository": {
     "type": "git",
     "url": "git+https://github.com/mkusaka/reproduce.git"
   },
