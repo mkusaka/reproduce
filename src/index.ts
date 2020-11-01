@@ -1,4 +1,4 @@
-import * as deepcopy from 'deepcopy';
+import deepcopy from 'deepcopy';
 
 interface Handler<T, R> {
   (arg: T): R;
